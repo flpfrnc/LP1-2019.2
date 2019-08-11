@@ -1,0 +1,170 @@
+Ag/conta: |   Cliente:
+314/307    |   franca
++R$1.72 ~ Deposito
+Total = 18.20
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
++R$13.97 ~ Deposito
+Total = 13.97
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
+-R$1.99 ~ Saque
+Total = 11.98
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
++R$17.48 ~ Deposito
+Total = 29.46
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
++R$19.11 ~ Deposito
+Total = 48.57
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
++R$13.44 ~ Deposito
+Total = 62.01
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
+-R$99944.00 ~ Saque
+Total = -99881.99
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
++R$190008736.00 ~ Deposito
+Total = 189908848.00
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
+-R$196575840.00 ~ Saque
+Total = -6666992.00
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
++R$66669992.00 ~ Deposito
+Total = 60003000.00
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
+-R$66669992.00 ~ Saque
+Total = -6666992.00
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
++R$6666993.00 ~ Deposito
+Total = 1.00
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$19.00 ~ Transferencia
+Total = -19.00
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
++R$25.47 ~ Deposito
+Total = 6.47
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$5.00 ~ Transferencia
+Total = 1.47
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
++R$47.00 ~ Deposito
+Total = 48.47
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$5.00 ~ Transferencia
+Total = 43.47
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$5.00 ~ Transferencia
+Total = 38.47
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$5.00 ~ Transferencia
+Total = 33.47
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$3.00 ~ Transferencia
+Total = 30.47
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$2.99 ~ Transferencia
+Total = 27.48
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
++R$10.00 ~ Deposito
+Total = 37.48
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$12.00 ~ Transferencia
+Total = 25.48
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$0.48 ~ Transferencia
+Total = 25.00
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$5.60 ~ Transferencia
+Total = 19.40
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$5.47 ~ Transferencia
+Total = 13.93
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$1.99 ~ Transferencia
+Total = 11.94
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$1.94 ~ Transferencia
+Total = 10.00
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$6.99 ~ Transferencia
+Total = 3.01
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
+-R$17.00 ~ Saque
+Total = -9.01
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
++R$27.99 ~ Deposito
+Total = 18.98
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
+-R$8.98 ~ Transferencia
+Total = 10.00
+---------------
+Ag/conta: |   Cliente:
+2672/9317    |   Joao
+-R$1.99 ~ Transferencia
+Total = 10.00
+---------------
+Ag/conta: |   Cliente:
+314/307    |   Felipe
+-R$123456.00 ~ Transferencia
+Total = -123444.01
+---------------
